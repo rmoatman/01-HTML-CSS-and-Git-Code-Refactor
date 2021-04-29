@@ -26,7 +26,7 @@ The intent of this project was to gain experience refactoring existing code
 As mentioned above, the intent of this project was to gain experience refactoring existing code using the skills learned in weeks 1 and 2 of BootCamp.  It also allowed practice creating a repository, discussing code and with others in a study group, researching various topics (HTML/CSS usage, accessibility, semantic structure, and creating a useful README file).  My takeaways include:
 -   The importance of taking time to review the code thoroughly before making changes
 -   How to identify different sections of a website to allow for a systematic approach to code review and revision
--   The best practice of making changes incrementally
+-   The best practices of making changes incrementally and using semantic HTML
 -   The usefulness of using descriptive class and id names
 -   How tabindex can be used to aid navigation
 -   How alt attributes can aid in conveying meaning
