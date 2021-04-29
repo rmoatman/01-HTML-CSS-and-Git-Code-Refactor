@@ -11,7 +11,7 @@ The intent of this project was to gain experience refactoring existing code
 - Using skills learned in weeks 1 and 2 of BootCamp, I refactored the site with the following results:
     - The site's links all function correctly
     - The CSS selectors and properties are consolidated and organized to follow semantic structure
-    - Comments identifying structure, use, notes to designer, future considerations, and questions are included in both the index.html and style.CSS files
+    - Comments identifying structure, use, notes to designer, future considerations, and questions are included in both the index.html and style.css files
 
 - Some specific changes included:
     - Removing `<div>` elements and replacing them with more appropriate descriptive elements
