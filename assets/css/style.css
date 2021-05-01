@@ -4,15 +4,18 @@
     margin: 0;
 }
 
+/* This styling is used to style the links used for navigation */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* This styling is used to style the background of the body */
 body {
     background-color: #d9dcd6;
 }
 
+/* This styling is used to apply style in the footer */
 footer {
     padding: 30px;
     clear: both;
@@ -21,6 +24,7 @@ footer {
     font-size: 20px;
 }
 
+/* This styling is used to style h1 elements */
 h1 {
     display: inline;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,10 +57,12 @@ li {
     float: right;
 }
 
+/* This styling is used to style paragraphs */
 p {
     font-size: 20px;
 }
 
+/* This styling is used to style the unordered lists used for navigation in the header */
 ul {
     display: inline;
     list-style-type: none;
