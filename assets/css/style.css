@@ -62,9 +62,9 @@ ul {
     list-style-type: none;
 }
 
-/* The contentLeftAside class applies styling to the aside containing Search Engine Optimization, Online Reputation Managment, and Social Media Marketing.  Additional styling is applied to each section within the aside by the leftAsideSectionFormatting class*/
-/* FUTURE CONSIDERATIONS: THE LEFT ASIDE IS NOT RESPONSIVE TO SMALLER SCREEN SIZES. */
-.contentLeftAside {
+/* The contentLeftSection class applies styling to the aside containing Search Engine Optimization, Online Reputation Managment, and Social Media Marketing.  Additional styling is applied to each section within the aside by the leftAsideSectionFormatting class*/
+/* FUTURE CONSIDERATIONS: THE LEFT SECTION IS NOT RESPONSIVE TO SMALLER SCREEN SIZES. */
+.contentLeftSection {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -83,7 +83,7 @@ ul {
     background-color: #2589bd;
 }
 
-/* The float-left and float-right classes apply styling to the ContentLeftAside images */
+/* The float-left and float-right classes apply styling to the ContentLeftSection images */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -94,8 +94,8 @@ ul {
     margin-left: 25px;
 }
 
-/* The leftAsideSectionFormatting class applies styling to the Search Engine Optimization, Online Reputation Managment, and Social Media Marketing sections within left aside.  Additional formatting is applied by the contentLeftAside class */
-.leftAsideSectionFormatting {
+/* The leftSectionFormatting class applies styling to the Search Engine Optimization, Online Reputation Managment, and Social Media Marketing sections within left section.  Additional formatting is applied by the contentLeftSection class */
+.leftSectionFormatting {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -104,12 +104,12 @@ ul {
     color: #ffffff;
 }
 
-.leftAsideSectionFormatting h2 {
+.leftSectionFormatting h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.leftAsideSectionFormatting img {
+.leftSectionFormatting img {
     max-height: 200px;
 }
 
@@ -151,6 +151,6 @@ ul {
     background-position: center;
 }
 
-/* Last Revised 4/28/21 */
+/* Last Revised 4/30/21 */
 /* Raemarie Oatman ramemarie.oatman@gmail.com */
 /* Homework Week 1 - "01 HTML, CSS, and Git:  Code Refactor" */
